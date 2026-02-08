@@ -1,0 +1,40 @@
+{
+  "familyMembers": [
+    {
+      "id": "1",
+      "name": "Leo",
+      "role": "Child",
+      "avatar": "person.crop.circle.fill",
+      "usedMinutes": 145,
+      "limitMinutes": 180,
+      "isPaused": false,
+      "topApps": [
+        {"name": "Roblox", "minutes": 60, "icon": "gamecontroller.fill", "color": "#FF4500"},
+        {"name": "YouTube", "minutes": 45, "icon": "play.rectangle.fill", "color": "#FF0000"},
+        {"name": "TikTok", "minutes": 40, "icon": "music.note", "color": "#000000"}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Maya",
+      "role": "Child",
+      "avatar": "person.crop.circle.badge.checkmark",
+      "usedMinutes": 210,
+      "limitMinutes": 120,
+      "isPaused": true,
+      "topApps": [
+        {"name": "Instagram", "minutes": 120, "icon": "camera.fill", "color": "#E1306C"},
+        {"name": "Snapchat", "minutes": 90, "icon": "ghost.fill", "color": "#FFFC00"}
+      ]
+    }
+  ],
+  "pendingRequests": [
+    {
+      "id": "req_1",
+      "memberName": "Leo",
+      "app": "Roblox",
+      "requestedTime": "30 min",
+      "timestamp": "2m ago"
+    }
+  ]
+}
